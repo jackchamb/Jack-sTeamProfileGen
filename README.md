@@ -2,7 +2,7 @@
 
 WIP "Team Profile Generator"
 
-GOAL=
+GOAL= finish role tests + get rest of code to be able to run it
 
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for my team members and their information
